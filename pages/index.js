@@ -5,7 +5,7 @@ export default () =>{
     return (
     <div>
         <Link href="/UserInfo">
-            UserInfo
+            UserInfo222
         </Link>
 
         <h2>Index Demo </h2>
